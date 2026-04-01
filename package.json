@@ -1,0 +1,12 @@
+{
+  "name": "matt-linkedin-crm",
+  "version": "1.0.0",
+  "description": "Matt's LinkedIn CRM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
